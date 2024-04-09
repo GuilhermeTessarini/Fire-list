@@ -8,8 +8,7 @@ Key Features:
 - User-Friendly Interface: The user interface was developed with React to provide a smooth and responsive experience.
 
 Technologies Used:
-- React
-- Components: The project is divided into reusable components for better organization and maintainability.
+- ReactJS: ReactJS: A JavaScript library for building user interfaces.
 - CSS: Basic styling to enhance the appearance of the application.
 - Firebase (Firebase Authentication, Firestore)
 
